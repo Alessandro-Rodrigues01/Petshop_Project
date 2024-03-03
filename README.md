@@ -1,4 +1,4 @@
-# Petshop_Project
+# PET'S HOUSE
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/LICENSE) 
 
 # Sobre o projeto
