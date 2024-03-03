@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projetc_pet
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/LICENSE) 
 
@@ -89,3 +90,6 @@ Pré-requisitos: Java 7 em diante
 Alessandro Rodrigues
 
 https://www.linkedin.com/in/alessandro-rodrigues-a73b50246/
+=======
+# Petshop_Project
+>>>>>>> 9af4e929ede7129c48478ea102f60bdfa31b9939
