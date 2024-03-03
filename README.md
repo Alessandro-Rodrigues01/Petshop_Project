@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# Projetc_pet
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/LICENSE) 
+# Petshop_Project
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/LICENSE) 
 
 # Sobre o projeto
 Projeto desenvolvido para o TCC da UNICID.
@@ -36,36 +35,36 @@ Um determinado cliente proprietário de loja petshop gostaria de um sistema que 
  
 # Layout descktop
 ## Tela login, base de dados desconectado
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-login-Bd-desconectado.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-login-Bd-desconectado.png)
 
 ## Tela login, base de dados conectado
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-login-Bd-conectado.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-login-Bd-conectado.png)
 
 ## Tela principal
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-principal.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-principal.png)
 
 ## Tela Cadastro cliente
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-cadastro-cliente.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-cadastro-cliente.png)
 
 ## Tela cadastro produtos
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-cadastro-produtos.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-cadastro-produtos.png)
 
 ## Tela cadastro animal
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-cadastro-animal.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-cadastro-animal.png)
 
 ## Tela cadastro usuário
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-cadastro-usuario.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-cadastro-usuario.png)
 
 ## Tela cadastro Ordem de serviços
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-cadastro-OS.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-cadastro-OS.png)
 
 ## Tela cadastro compra
-![descktop1](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Tela-cadastro-compra.png)
+![descktop1](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Tela-cadastro-compra.png)
 
 
 
 ## Modelo de dados relacional
-![Modelo relacional](https://github.com/Alessandro-Rodrigues01/Projetc_pet/blob/main/assets/telas/Modelo-de-dados.png)
+![Modelo relacional](https://github.com/Alessandro-Rodrigues01/Petshop_Project/blob/main/assets/telas/Modelo-de-dados.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -90,6 +89,5 @@ Pré-requisitos: Java 7 em diante
 Alessandro Rodrigues
 
 https://www.linkedin.com/in/alessandro-rodrigues-a73b50246/
-=======
-# Petshop_Project
->>>>>>> 9af4e929ede7129c48478ea102f60bdfa31b9939
+
+
